@@ -34,6 +34,6 @@ y_kmeans = kmeans.fit_predict(x)
 ![](./images/task2cluster.png)
 
 # Links 
-[Note book]()
+[Note book](https://github.com/tejas-python/Spark-foundation-intern-tasks/blob/master/Task%202/task2.ipynb)
 
-[Download link]()
+[Download link](https://tejas-python.github.io/Spark-foundation-intern-tasks//Task%202/task2.ipynb)
